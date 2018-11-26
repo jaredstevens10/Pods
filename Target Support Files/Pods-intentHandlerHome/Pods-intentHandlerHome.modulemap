@@ -1,0 +1,6 @@
+framework module Pods_intentHandlerHome {
+  umbrella header "Pods-intentHandlerHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

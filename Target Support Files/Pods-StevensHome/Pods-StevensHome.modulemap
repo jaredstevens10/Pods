@@ -1,0 +1,6 @@
+framework module Pods_StevensHome {
+  umbrella header "Pods-StevensHome-umbrella.h"
+
+  export *
+  module * { export * }
+}
